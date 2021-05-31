@@ -1,0 +1,1302 @@
+[
+  {
+    "reigon": "Acre ",
+    "tzid": "America/Rio_Branco "
+  },
+  {
+    "reigon": "Afghanistan ",
+    "tzid": "Asia/Kabul "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Maputo "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Bujumbura "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Gaborone "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Lubumbashi "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Blantyre "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Kigali "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Lusaka "
+  },
+  {
+    "reigon": "Africa_Central ",
+    "tzid": "Africa/Harare "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Nairobi "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Djibouti "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Asmera "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Addis_Ababa "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Indian/Comoro "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Indian/Antananarivo "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Mogadishu "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Dar_es_Salaam "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Africa/Kampala "
+  },
+  {
+    "reigon": "Africa_Eastern ",
+    "tzid": "Indian/Mayotte "
+  },
+  {
+    "reigon": "Africa_FarWestern ",
+    "tzid": "Africa/El_Aaiun "
+  },
+  {
+    "reigon": "Africa_Southern ",
+    "tzid": "Africa/Johannesburg "
+  },
+  {
+    "reigon": "Africa_Southern ",
+    "tzid": "Africa/Maseru "
+  },
+  {
+    "reigon": "Africa_Southern ",
+    "tzid": "Africa/Mbabane "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Lagos "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Luanda "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Porto-Novo "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Kinshasa "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Bangui "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Brazzaville "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Douala "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Libreville "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Malabo "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Niamey "
+  },
+  {
+    "reigon": "Africa_Western ",
+    "tzid": "Africa/Ndjamena "
+  },
+  {
+    "reigon": "Aktyubinsk ",
+    "tzid": "Asia/Aqtobe "
+  },
+  {
+    "reigon": "Alaska ",
+    "tzid": "America/Juneau "
+  },
+  {
+    "reigon": "Alaska_Hawaii ",
+    "tzid": "America/Anchorage "
+  },
+  {
+    "reigon": "Almaty ",
+    "tzid": "Asia/Almaty "
+  },
+  {
+    "reigon": "Amazon ",
+    "tzid": "America/Manaus "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Chicago "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Belize "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Winnipeg "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Costa_Rica "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Guatemala "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Tegucigalpa "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/Mexico_City "
+  },
+  {
+    "reigon": "America_Central ",
+    "tzid": "America/El_Salvador "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/New_York "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/Nassau "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/Toronto "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/Port-au-Prince "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/Jamaica "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/Cayman "
+  },
+  {
+    "reigon": "America_Eastern ",
+    "tzid": "America/Panama "
+  },
+  {
+    "reigon": "America_Mountain ",
+    "tzid": "America/Denver "
+  },
+  {
+    "reigon": "America_Mountain ",
+    "tzid": "America/Edmonton "
+  },
+  {
+    "reigon": "America_Mountain ",
+    "tzid": "America/Hermosillo "
+  },
+  {
+    "reigon": "America_Pacific ",
+    "tzid": "America/Los_Angeles "
+  },
+  {
+    "reigon": "America_Pacific ",
+    "tzid": "America/Vancouver "
+  },
+  {
+    "reigon": "America_Pacific ",
+    "tzid": "America/Tijuana "
+  },
+  {
+    "reigon": "Anadyr ",
+    "tzid": "Asia/Anadyr "
+  },
+  {
+    "reigon": "Apia ",
+    "tzid": "Pacific/Apia "
+  },
+  {
+    "reigon": "Aqtau ",
+    "tzid": "Asia/Aqtau "
+  },
+  {
+    "reigon": "Aqtobe ",
+    "tzid": "Asia/Aqtobe "
+  },
+  {
+    "reigon": "Arabian ",
+    "tzid": "Asia/Riyadh "
+  },
+  {
+    "reigon": "Arabian ",
+    "tzid": "Asia/Bahrain "
+  },
+  {
+    "reigon": "Arabian ",
+    "tzid": "Asia/Baghdad "
+  },
+  {
+    "reigon": "Arabian ",
+    "tzid": "Asia/Kuwait "
+  },
+  {
+    "reigon": "Arabian ",
+    "tzid": "Asia/Qatar "
+  },
+  {
+    "reigon": "Arabian ",
+    "tzid": "Asia/Aden "
+  },
+  {
+    "reigon": "Argentina ",
+    "tzid": "America/Buenos_Aires "
+  },
+  {
+    "reigon": "Argentina_Western ",
+    "tzid": "America/Argentina/San_Luis "
+  },
+  {
+    "reigon": "Armenia ",
+    "tzid": "Asia/Yerevan "
+  },
+  {
+    "reigon": "Ashkhabad ",
+    "tzid": "Asia/Ashgabat "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Halifax "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Antigua "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Anguilla "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Aruba "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Barbados "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "Atlantic/Bermuda "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Kralendijk "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Curacao "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Dominica "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Grenada "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Thule "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Guadeloupe "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/St_Kitts "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/St_Lucia "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Marigot "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Martinique "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Montserrat "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Puerto_Rico "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Lower_Princes "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Port_of_Spain "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/St_Vincent "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/Tortola "
+  },
+  {
+    "reigon": "Atlantic ",
+    "tzid": "America/St_Thomas "
+  },
+  {
+    "reigon": "Australia_Central ",
+    "tzid": "Australia/Adelaide "
+  },
+  {
+    "reigon": "Australia_CentralWestern ",
+    "tzid": "Australia/Eucla "
+  },
+  {
+    "reigon": "Australia_Eastern ",
+    "tzid": "Australia/Sydney "
+  },
+  {
+    "reigon": "Australia_Western ",
+    "tzid": "Australia/Perth "
+  },
+  {
+    "reigon": "Azerbaijan ",
+    "tzid": "Asia/Baku "
+  },
+  {
+    "reigon": "Azores ",
+    "tzid": "Atlantic/Azores "
+  },
+  {
+    "reigon": "Baku ",
+    "tzid": "Asia/Baku "
+  },
+  {
+    "reigon": "Bangladesh ",
+    "tzid": "Asia/Dhaka "
+  },
+  {
+    "reigon": "Bering ",
+    "tzid": "America/Adak "
+  },
+  {
+    "reigon": "Bhutan ",
+    "tzid": "Asia/Thimphu "
+  },
+  {
+    "reigon": "Bolivia ",
+    "tzid": "America/La_Paz "
+  },
+  {
+    "reigon": "Borneo ",
+    "tzid": "Asia/Kuching "
+  },
+  {
+    "reigon": "Brasilia ",
+    "tzid": "America/Sao_Paulo "
+  },
+  {
+    "reigon": "British ",
+    "tzid": "Europe/London "
+  },
+  {
+    "reigon": "Brunei ",
+    "tzid": "Asia/Brunei "
+  },
+  {
+    "reigon": "Cape_Verde ",
+    "tzid": "Atlantic/Cape_Verde "
+  },
+  {
+    "reigon": "Casey ",
+    "tzid": "Antarctica/Casey "
+  },
+  {
+    "reigon": "Chamorro ",
+    "tzid": "Pacific/Saipan "
+  },
+  {
+    "reigon": "Chamorro ",
+    "tzid": "Pacific/Guam "
+  },
+  {
+    "reigon": "Chatham ",
+    "tzid": "Pacific/Chatham "
+  },
+  {
+    "reigon": "Chile ",
+    "tzid": "America/Santiago "
+  },
+  {
+    "reigon": "China ",
+    "tzid": "Asia/Shanghai "
+  },
+  {
+    "reigon": "Choibalsan ",
+    "tzid": "Asia/Choibalsan "
+  },
+  {
+    "reigon": "Christmas ",
+    "tzid": "Indian/Christmas "
+  },
+  {
+    "reigon": "Cocos ",
+    "tzid": "Indian/Cocos "
+  },
+  {
+    "reigon": "Colombia ",
+    "tzid": "America/Bogota "
+  },
+  {
+    "reigon": "Cook ",
+    "tzid": "Pacific/Rarotonga "
+  },
+  {
+    "reigon": "Cuba ",
+    "tzid": "America/Havana "
+  },
+  {
+    "reigon": "Dacca ",
+    "tzid": "Asia/Dhaka "
+  },
+  {
+    "reigon": "Davis ",
+    "tzid": "Antarctica/Davis "
+  },
+  {
+    "reigon": "Dominican ",
+    "tzid": "America/Santo_Domingo "
+  },
+  {
+    "reigon": "DumontDUrville ",
+    "tzid": "Antarctica/DumontDUrville "
+  },
+  {
+    "reigon": "Dushanbe ",
+    "tzid": "Asia/Dushanbe "
+  },
+  {
+    "reigon": "Dutch_Guiana ",
+    "tzid": "America/Paramaribo "
+  },
+  {
+    "reigon": "East_Timor ",
+    "tzid": "Asia/Dili "
+  },
+  {
+    "reigon": "Easter ",
+    "tzid": "Pacific/Easter "
+  },
+  {
+    "reigon": "Ecuador ",
+    "tzid": "America/Guayaquil "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Paris "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Andorra "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Tirane "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Vienna "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Sarajevo "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Brussels "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Zurich "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Prague "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Berlin "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Copenhagen "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Madrid "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Gibraltar "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Zagreb "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Budapest "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Rome "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Vaduz "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Luxembourg "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Monaco "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Podgorica "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Skopje "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Malta "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Amsterdam "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Oslo "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Warsaw "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Belgrade "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Stockholm "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Ljubljana "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Arctic/Longyearbyen "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Bratislava "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/San_Marino "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Africa/Tunis "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Vatican "
+  },
+  {
+    "reigon": "Europe_Central ",
+    "tzid": "Europe/Belgrade "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Europe/Bucharest "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Europe/Mariehamn "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Europe/Sofia "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Asia/Nicosia "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Africa/Cairo "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Europe/Helsinki "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Europe/Athens "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Asia/Amman "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Asia/Beirut "
+  },
+  {
+    "reigon": "Europe_Eastern ",
+    "tzid": "Asia/Damascus "
+  },
+  {
+    "reigon": "Europe_Further_Eastern ",
+    "tzid": "Europe/Minsk "
+  },
+  {
+    "reigon": "Europe_Further_Eastern ",
+    "tzid": "Europe/Kaliningrad "
+  },
+  {
+    "reigon": "Europe_Western ",
+    "tzid": "Atlantic/Canary "
+  },
+  {
+    "reigon": "Europe_Western ",
+    "tzid": "Atlantic/Faeroe "
+  },
+  {
+    "reigon": "Falkland ",
+    "tzid": "Atlantic/Stanley "
+  },
+  {
+    "reigon": "Fiji ",
+    "tzid": "Pacific/Fiji "
+  },
+  {
+    "reigon": "French_Guiana ",
+    "tzid": "America/Cayenne "
+  },
+  {
+    "reigon": "French_Southern ",
+    "tzid": "Indian/Kerguelen "
+  },
+  {
+    "reigon": "Frunze ",
+    "tzid": "Asia/Bishkek "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Atlantic/Reykjavik "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Ouagadougou "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Abidjan "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Europe/London "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Accra "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Banjul "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Conakry "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Europe/Dublin "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Bamako "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Nouakchott "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Atlantic/St_Helena "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Freetown "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Dakar "
+  },
+  {
+    "reigon": "GMT ",
+    "tzid": "Africa/Lome "
+  },
+  {
+    "reigon": "Galapagos ",
+    "tzid": "Pacific/Galapagos "
+  },
+  {
+    "reigon": "Gambier ",
+    "tzid": "Pacific/Gambier "
+  },
+  {
+    "reigon": "Georgia ",
+    "tzid": "Asia/Tbilisi "
+  },
+  {
+    "reigon": "Gilbert_Islands ",
+    "tzid": "Pacific/Tarawa "
+  },
+  {
+    "reigon": "Goose_Bay ",
+    "tzid": "America/Goose_Bay "
+  },
+  {
+    "reigon": "Greenland_Central ",
+    "tzid": "America/Scoresbysund "
+  },
+  {
+    "reigon": "Greenland_Eastern ",
+    "tzid": "America/Scoresbysund "
+  },
+  {
+    "reigon": "Greenland_Western ",
+    "tzid": "America/Godthab "
+  },
+  {
+    "reigon": "Guam ",
+    "tzid": "Pacific/Guam "
+  },
+  {
+    "reigon": "Gulf ",
+    "tzid": "Asia/Dubai "
+  },
+  {
+    "reigon": "Gulf ",
+    "tzid": "Asia/Muscat "
+  },
+  {
+    "reigon": "Guyana ",
+    "tzid": "America/Guyana "
+  },
+  {
+    "reigon": "Hawaii_Aleutian ",
+    "tzid": "Pacific/Honolulu "
+  },
+  {
+    "reigon": "Hong_Kong ",
+    "tzid": "Asia/Hong_Kong "
+  },
+  {
+    "reigon": "Hovd ",
+    "tzid": "Asia/Hovd "
+  },
+  {
+    "reigon": "India ",
+    "tzid": "Asia/Calcutta "
+  },
+  {
+    "reigon": "India ",
+    "tzid": "Asia/Colombo "
+  },
+  {
+    "reigon": "Indian_Ocean ",
+    "tzid": "Indian/Chagos "
+  },
+  {
+    "reigon": "Indochina ",
+    "tzid": "Asia/Bangkok "
+  },
+  {
+    "reigon": "Indochina ",
+    "tzid": "Asia/Phnom_Penh "
+  },
+  {
+    "reigon": "Indochina ",
+    "tzid": "Asia/Vientiane "
+  },
+  {
+    "reigon": "Indonesia_Central ",
+    "tzid": "Asia/Makassar "
+  },
+  {
+    "reigon": "Indonesia_Eastern ",
+    "tzid": "Asia/Jayapura "
+  },
+  {
+    "reigon": "Indonesia_Western ",
+    "tzid": "Asia/Jakarta "
+  },
+  {
+    "reigon": "Iran ",
+    "tzid": "Asia/Tehran "
+  },
+  {
+    "reigon": "Irish ",
+    "tzid": "Europe/Dublin "
+  },
+  {
+    "reigon": "Irkutsk ",
+    "tzid": "Asia/Irkutsk "
+  },
+  {
+    "reigon": "Israel ",
+    "tzid": "Asia/Jerusalem "
+  },
+  {
+    "reigon": "Japan ",
+    "tzid": "Asia/Tokyo "
+  },
+  {
+    "reigon": "Kamchatka ",
+    "tzid": "Asia/Kamchatka "
+  },
+  {
+    "reigon": "Karachi ",
+    "tzid": "Asia/Karachi "
+  },
+  {
+    "reigon": "Kazakhstan_Eastern ",
+    "tzid": "Asia/Almaty "
+  },
+  {
+    "reigon": "Kazakhstan_Western ",
+    "tzid": "Asia/Aqtobe "
+  },
+  {
+    "reigon": "Kizilorda ",
+    "tzid": "Asia/Qyzylorda "
+  },
+  {
+    "reigon": "Korea ",
+    "tzid": "Asia/Seoul "
+  },
+  {
+    "reigon": "Kosrae ",
+    "tzid": "Pacific/Kosrae "
+  },
+  {
+    "reigon": "Krasnoyarsk ",
+    "tzid": "Asia/Krasnoyarsk "
+  },
+  {
+    "reigon": "Kuybyshev ",
+    "tzid": "Europe/Samara "
+  },
+  {
+    "reigon": "Kwajalein ",
+    "tzid": "Pacific/Kwajalein "
+  },
+  {
+    "reigon": "Kyrgystan ",
+    "tzid": "Asia/Bishkek "
+  },
+  {
+    "reigon": "Lanka ",
+    "tzid": "Asia/Colombo "
+  },
+  {
+    "reigon": "Liberia ",
+    "tzid": "Africa/Monrovia "
+  },
+  {
+    "reigon": "Line_Islands ",
+    "tzid": "Pacific/Kiritimati "
+  },
+  {
+    "reigon": "Lord_Howe ",
+    "tzid": "Australia/Lord_Howe "
+  },
+  {
+    "reigon": "Macau ",
+    "tzid": "Asia/Macau "
+  },
+  {
+    "reigon": "Macquarie ",
+    "tzid": "Antarctica/Macquarie "
+  },
+  {
+    "reigon": "Magadan ",
+    "tzid": "Asia/Magadan "
+  },
+  {
+    "reigon": "Malaya ",
+    "tzid": "Asia/Kuala_Lumpur "
+  },
+  {
+    "reigon": "Malaysia ",
+    "tzid": "Asia/Kuching "
+  },
+  {
+    "reigon": "Maldives ",
+    "tzid": "Indian/Maldives "
+  },
+  {
+    "reigon": "Marquesas ",
+    "tzid": "Pacific/Marquesas "
+  },
+  {
+    "reigon": "Marshall_Islands ",
+    "tzid": "Pacific/Majuro "
+  },
+  {
+    "reigon": "Mauritius ",
+    "tzid": "Indian/Mauritius "
+  },
+  {
+    "reigon": "Mawson ",
+    "tzid": "Antarctica/Mawson "
+  },
+  {
+    "reigon": "Mexico_Northwest ",
+    "tzid": "America/Santa_Isabel "
+  },
+  {
+    "reigon": "Mexico_Pacific ",
+    "tzid": "America/Mazatlan "
+  },
+  {
+    "reigon": "Mongolia ",
+    "tzid": "Asia/Ulaanbaatar "
+  },
+  {
+    "reigon": "Moscow ",
+    "tzid": "Europe/Moscow "
+  },
+  {
+    "reigon": "Myanmar ",
+    "tzid": "Asia/Rangoon "
+  },
+  {
+    "reigon": "Nauru ",
+    "tzid": "Pacific/Nauru "
+  },
+  {
+    "reigon": "Nepal ",
+    "tzid": "Asia/Katmandu "
+  },
+  {
+    "reigon": "New_Caledonia ",
+    "tzid": "Pacific/Noumea "
+  },
+  {
+    "reigon": "New_Zealand ",
+    "tzid": "Pacific/Auckland "
+  },
+  {
+    "reigon": "New_Zealand ",
+    "tzid": "Antarctica/McMurdo "
+  },
+  {
+    "reigon": "Newfoundland ",
+    "tzid": "America/St_Johns "
+  },
+  {
+    "reigon": "Niue ",
+    "tzid": "Pacific/Niue "
+  },
+  {
+    "reigon": "Norfolk ",
+    "tzid": "Pacific/Norfolk "
+  },
+  {
+    "reigon": "Noronha ",
+    "tzid": "America/Noronha "
+  },
+  {
+    "reigon": "North_Mariana ",
+    "tzid": "Pacific/Saipan "
+  },
+  {
+    "reigon": "Novosibirsk ",
+    "tzid": "Asia/Novosibirsk "
+  },
+  {
+    "reigon": "Omsk ",
+    "tzid": "Asia/Omsk "
+  },
+  {
+    "reigon": "Oral ",
+    "tzid": "Asia/Oral "
+  },
+  {
+    "reigon": "Pakistan ",
+    "tzid": "Asia/Karachi "
+  },
+  {
+    "reigon": "Palau ",
+    "tzid": "Pacific/Palau "
+  },
+  {
+    "reigon": "Papua_New_Guinea ",
+    "tzid": "Pacific/Port_Moresby "
+  },
+  {
+    "reigon": "Paraguay ",
+    "tzid": "America/Asuncion "
+  },
+  {
+    "reigon": "Peru ",
+    "tzid": "America/Lima "
+  },
+  {
+    "reigon": "Philippines ",
+    "tzid": "Asia/Manila "
+  },
+  {
+    "reigon": "Phoenix_Islands ",
+    "tzid": "Pacific/Enderbury "
+  },
+  {
+    "reigon": "Pierre_Miquelon ",
+    "tzid": "America/Miquelon "
+  },
+  {
+    "reigon": "Pitcairn ",
+    "tzid": "Pacific/Pitcairn "
+  },
+  {
+    "reigon": "Ponape ",
+    "tzid": "Pacific/Ponape "
+  },
+  {
+    "reigon": "Pyongyang ",
+    "tzid": "Asia/Pyongyang "
+  },
+  {
+    "reigon": "Qyzylorda ",
+    "tzid": "Asia/Qyzylorda "
+  },
+  {
+    "reigon": "Reunion ",
+    "tzid": "Indian/Reunion "
+  },
+  {
+    "reigon": "Rothera ",
+    "tzid": "Antarctica/Rothera "
+  },
+  {
+    "reigon": "Sakhalin ",
+    "tzid": "Asia/Sakhalin "
+  },
+  {
+    "reigon": "Samara ",
+    "tzid": "Europe/Samara "
+  },
+  {
+    "reigon": "Samarkand ",
+    "tzid": "Asia/Samarkand "
+  },
+  {
+    "reigon": "Samoa ",
+    "tzid": "Pacific/Pago_Pago "
+  },
+  {
+    "reigon": "Seychelles ",
+    "tzid": "Indian/Mahe "
+  },
+  {
+    "reigon": "Shevchenko ",
+    "tzid": "Asia/Aqtau "
+  },
+  {
+    "reigon": "Singapore ",
+    "tzid": "Asia/Singapore "
+  },
+  {
+    "reigon": "Solomon ",
+    "tzid": "Pacific/Guadalcanal "
+  },
+  {
+    "reigon": "South_Georgia ",
+    "tzid": "Atlantic/South_Georgia "
+  },
+  {
+    "reigon": "Suriname ",
+    "tzid": "America/Paramaribo "
+  },
+  {
+    "reigon": "Sverdlovsk ",
+    "tzid": "Asia/Yekaterinburg "
+  },
+  {
+    "reigon": "Syowa ",
+    "tzid": "Antarctica/Syowa "
+  },
+  {
+    "reigon": "Tahiti ",
+    "tzid": "Pacific/Tahiti "
+  },
+  {
+    "reigon": "Taipei ",
+    "tzid": "Asia/Taipei "
+  },
+  {
+    "reigon": "Tajikistan ",
+    "tzid": "Asia/Dushanbe "
+  },
+  {
+    "reigon": "Tashkent ",
+    "tzid": "Asia/Tashkent "
+  },
+  {
+    "reigon": "Tbilisi ",
+    "tzid": "Asia/Tbilisi "
+  },
+  {
+    "reigon": "Tokelau ",
+    "tzid": "Pacific/Fakaofo "
+  },
+  {
+    "reigon": "Tonga ",
+    "tzid": "Pacific/Tongatapu "
+  },
+  {
+    "reigon": "Truk ",
+    "tzid": "Pacific/Truk "
+  },
+  {
+    "reigon": "Turkey ",
+    "tzid": "Europe/Istanbul "
+  },
+  {
+    "reigon": "Turkmenistan ",
+    "tzid": "Asia/Ashgabat "
+  },
+  {
+    "reigon": "Tuvalu ",
+    "tzid": "Pacific/Funafuti "
+  },
+  {
+    "reigon": "Uralsk ",
+    "tzid": "Asia/Oral "
+  },
+  {
+    "reigon": "Uruguay ",
+    "tzid": "America/Montevideo "
+  },
+  {
+    "reigon": "Urumqi ",
+    "tzid": "Asia/Urumqi "
+  },
+  {
+    "reigon": "Uzbekistan ",
+    "tzid": "Asia/Tashkent "
+  },
+  {
+    "reigon": "Vanuatu ",
+    "tzid": "Pacific/Efate "
+  },
+  {
+    "reigon": "Venezuela ",
+    "tzid": "America/Caracas "
+  },
+  {
+    "reigon": "Vladivostok ",
+    "tzid": "Asia/Vladivostok "
+  },
+  {
+    "reigon": "Volgograd ",
+    "tzid": "Europe/Volgograd "
+  },
+  {
+    "reigon": "Vostok ",
+    "tzid": "Antarctica/Vostok "
+  },
+  {
+    "reigon": "Wake ",
+    "tzid": "Pacific/Wake "
+  },
+  {
+    "reigon": "Wallis ",
+    "tzid": "Pacific/Wallis "
+  },
+  {
+    "reigon": "Yakutsk ",
+    "tzid": "Asia/Yakutsk "
+  },
+  {
+    "reigon": "Yekaterinburg ",
+    "tzid": "Asia/Yekaterinburg "
+  },
+  {
+    "reigon": "Yerevan ",
+    "tzid": "Asia/Yerevan "
+  },
+  {
+    "reigon": "Yukon ",
+    "tzid": "America/Yakutat "
+  }
+]

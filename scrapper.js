@@ -51,5 +51,5 @@ function dataIterator(data,countryData) {
 }
     
 dataIterator(data,countryData);
-console.log(countryData);
-fs.writeFileSync('country.json','utf8')
+//console.log(countryData);
+fs.writeFileSync('./data.json', JSON.stringify(countryData, null, 2) , 'utf-8'); 
