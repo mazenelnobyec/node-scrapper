@@ -12,20 +12,44 @@ let filename = process.argv[2];
 
 
 function dataGetter(filename) {
-    let dataHolder;
-    const fileReader = fs.readFile(filename, 'utf8', (err, data) => {
+    /*fs.readFileSync(`./${filename}`, 'utf8', (err, data) => {
         if (err) {
             throw err;
         };
         console.log('OK: ' + filename);
-        data = data.replace(/<|>/g, ' ');
-        data=data.split('/n').join(' ');
+        data = data.replace(/<[^>]*|\r\n/g, ' ');
+        data=data.split('> >');
         console.log(data)
-       dataHolder = data.toString()
 
-    });
-    return dataHolder
+    });*/
+    let data = fs.readFileSync(filename, 'utf8')
+    data = data.replace(/<[^>]*|\r\n/g, ' ');
+    data = data.split('> >');
+
+    return data
 }
 
-const testValue = dataGetter(filename);
-console.log(testValue);
+
+const testValue = dataGetter(filename)
+
+let data = Array.from(testValue);
+
+data = data.filter((val, index) => index % 2 != 0)
+data = data.splice(2)
+let countryData=[];
+
+function dataIterator(data,countryData) {
+    let obj;
+    for (let index = 0; index < data.length; index=index +2) {
+         obj = {
+            reigon: data[index],
+            tzid: data[index+1]
+        };  
+        console.log(obj);
+        countryData.push(obj)
+    }
+}
+    
+dataIterator(data,countryData);
+console.log(countryData);
+fs.writeFileSync()
