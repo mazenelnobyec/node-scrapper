@@ -45,11 +45,11 @@ function dataIterator(data,countryData) {
             reigon: data[index],
             tzid: data[index+1]
         };  
-        console.log(obj);
+        //console.log(obj);
         countryData.push(obj)
     }
 }
     
 dataIterator(data,countryData);
 console.log(countryData);
-fs.writeFileSync()
+fs.writeFileSync('country.json','utf8')
